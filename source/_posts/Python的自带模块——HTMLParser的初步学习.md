@@ -1,4 +1,7 @@
-﻿# Python的自带模块——HTMLParser的初步学习
+﻿title: Python的自带模块——HTMLParser的初步学习
+date: 2016/10/15 14:49:19
+tags: Python
+---
 
 - HTMLParser是Python自带的模块，使用简单，能够很容易的实现HTML文件的分析。
 - 本文主要简单讲一下HTMLParser的用法. 

@@ -1,5 +1,9 @@
-﻿# python函数中的参数
-##参数类型
+﻿title: python函数中的参数
+date: 2016/9/25 12:34:09
+tags: Python
+---
+
+## 参数类型
 python函数中的参数类型一共有五种，他们分别是 
 
 - `POSITIONAL_OR_KEYWORD` 位置和关键字参数

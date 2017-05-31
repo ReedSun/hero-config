@@ -1,4 +1,7 @@
-﻿# 使用python的email、smtplib、poplib模块收发邮件
+﻿title: 使用python的email、smtplib、poplib模块收发邮件
+date: 2016/10/21 10:53:32
+tags: Python
+---
 
 - 一封电子邮件的旅程是：
   - MUA：Mail User Agent——邮件用户代理。(即类似Outlook的电子邮件软件）

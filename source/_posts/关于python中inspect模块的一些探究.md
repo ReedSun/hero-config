@@ -1,7 +1,6 @@
-﻿# 关于python中inspect模块的一些探究
-
-标签： Python
-
+﻿title: 关于python中inspect模块的一些探究
+date: 2016/11/06 12:13:30
+tags: Python
 ---
 
 ## 前言

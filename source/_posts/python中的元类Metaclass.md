@@ -1,4 +1,7 @@
-﻿# python中的元类Metaclass
+﻿title: python中的元类Metaclass
+date: 2016/10/31 20:18:42
+tags: Python
+---
 
 ## 理解元类之前需要学习的知识
  如果说让我们创建一个类，最先想到的肯定是用`class`创建，当我们使用`class`创建类的时候，python解释器自动创建这个对象，但是python同样也提供了手动处理的方法来创建类，这就是用python的自建函数`type()`。

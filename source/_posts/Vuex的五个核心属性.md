@@ -1,4 +1,7 @@
-# Vuex的五个核心概念
+title: Vuex的五个核心概念
+date: 2017/2/26 13:34:10
+tags: Vue
+---
 
 本文参考自[Vue文档](http://vuex.vuejs.org/zh-cn/)，说的非常详细，建议看文档。
 

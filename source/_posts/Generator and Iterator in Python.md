@@ -1,4 +1,9 @@
-﻿# Generator and Iterator in Python
+﻿title: Generator and Iterator in Python
+date: 2016/9/25 20:23:08
+tags: Python
+---
+
+# Generator and Iterator in Python
 *Generator——生成器*
 *Iterator——迭代器*
 ## 迭代器

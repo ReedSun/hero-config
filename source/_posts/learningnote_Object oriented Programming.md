@@ -1,4 +1,7 @@
-﻿# learningnote_Object oriented Programming
+﻿title: Python中面向对象编程
+date: 2016/9/27 12:18:48
+tags: Python
+---
 
 *Object oriented Programming -- 面对对象编程（OOP）*
 

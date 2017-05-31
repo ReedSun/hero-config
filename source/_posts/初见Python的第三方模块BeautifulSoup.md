@@ -1,4 +1,7 @@
-﻿# 初见Python的第三方模块BeautifulSoup
+﻿title: 初见Python的第三方模块BeautifulSoup
+date: 2016/10/14 20:13:59
+tags: Python
+---
 
 - [中文版官方文档](https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/)
 
